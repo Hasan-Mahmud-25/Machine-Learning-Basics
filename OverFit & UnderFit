@@ -1,0 +1,7 @@
+# OverFit & UnderFit
+
+When a Less Feature is used for train a model become Underfit
+
+### When a More Feature is used for train a model become OverFit
+
+ More Feature make Model Confusion, Model is hard to decide
